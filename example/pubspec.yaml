@@ -1,0 +1,18 @@
+name: flutter_canvas_watermark_example
+description: Demonstrates how to use the flutter_canvas_watermark package.
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_canvas_watermark:
+    path: ../
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0

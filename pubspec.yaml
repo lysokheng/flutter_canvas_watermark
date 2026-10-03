@@ -1,0 +1,26 @@
+name: flutter_canvas_watermark
+description: Hardware-accelerated dynamic forensic canvas DRM watermark overlay for Flutter video streams, confidential documents, and screen recording protection.
+version: 1.0.0
+homepage: https://lysokheng.vercel.app/
+repository: https://github.com/lysokheng/flutter_canvas_watermark
+issue_tracker: https://github.com/lysokheng/flutter_canvas_watermark/issues
+
+topics:
+  - watermark
+  - drm
+  - video
+  - security
+  - canvas
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
